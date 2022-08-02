@@ -1,0 +1,23 @@
+{
+  "name": "@gokarma/react-native-animated-loading-indicator-example",
+  "displayName": "ReactNativeAnimatedLoadingIndicator Example",
+  "expo": {
+    "name": "@gokarma/react-native-animated-loading-indicator-example",
+    "slug": "gokarma-react-native-animated-loading-indicator-example",
+    "description": "Example app for @gokarma/react-native-animated-loading-indicator",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
