@@ -1,3 +1,6 @@
+# ///////
+# Work In Progress
+# ///////
 # @gokarma/react-native-animated-loading-indicator
 A small and performant loading indicator. 60 fps
 ## Installation
